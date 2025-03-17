@@ -28,4 +28,5 @@ For example:
  - Google-like search (by .link, .title, .description, by tag), similar to https://rumca-js.github.io/search
  - Entry Detail view (should display one link data)  https://rumca-js.github.io/search -> preview
  - settings view
+ - about view - add email to Samos and rozbujnik@gmail.com?
  - Link add view (user only specifies link)
