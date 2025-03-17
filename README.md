@@ -17,8 +17,11 @@
  - If possible, it should not complain if tables contain more fields
 
 For example:
- - linkdatamodel (fields .link, .title, .description)
- - sourcedatamodel
+ - linkdatamodel (fields .link, .title, .description) -> https://github.com/rumca-js/Django-link-archive/blob/main/rsshistory/models/entries.py
+ - sourcedatamodel -> https://github.com/rumca-js/Django-link-archive/blob/main/rsshistory/models/sources.py
+ - usertags
+ - usercomments
+ - uservotes
 
 # Views
  - SQLite file selection
