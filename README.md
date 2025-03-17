@@ -22,6 +22,6 @@ For example:
 
 # Views
  - SQLite file selection
- - Google-like search (by .link, .title, .description, by tag)
- - Entry Detail view (should display one link data)
+ - Google-like search (by .link, .title, .description, by tag), similar to https://rumca-js.github.io/search
+ - Entry Detail view (should display one link data)  https://rumca-js.github.io/search -> preview
  - Link add view
