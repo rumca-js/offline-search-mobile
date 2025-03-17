@@ -24,3 +24,4 @@ For example:
  - SQLite file selection
  - Google-like search (by .link, .title, .description, by tag)
  - Entry Detail view (should display one link data)
+ - Link add view
